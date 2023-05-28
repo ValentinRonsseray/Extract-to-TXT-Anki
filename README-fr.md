@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-b1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
 
-Extract to TXT est une extension pour le logiciel de cartes mémoire Anki qui vous permet d'extraire vos notes et leur contenu dans un fichier texte brut. Cela vous offre un moyen pratique d'exporter vos données Anki pour une analyse ultérieure ou un partage (par exemple soumettre vos cartes à ChatGPT pour automatiser la production de nouvelles cartes...).
+Extract to TXT est une extension pour le logiciel de cartes mémoire Anki qui vous permet d'extraire vos notes et leur contenu dans un fichier texte brut. Cela vous offre un moyen pratique d'exporter vos données Anki pour une analyse ultérieure ou un partage (par exemple, soumettre vos cartes à ChatGPT pour automatiser la production de nouvelles cartes...).
 
 **Veuillez noter que cette extension prend en charge uniquement la langue anglaise.**
 
