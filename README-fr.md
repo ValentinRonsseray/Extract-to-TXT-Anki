@@ -1,9 +1,9 @@
-# Anki Extract to TXT
+# Extract to TXT
 
 ![Version](https://img.shields.io/badge/version-b1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
 
-Anki Extract to TXT est une extension pour le logiciel Anki qui vous permet d'extraire vos notes et leur contenu dans un fichier texte brut. Cela vous offre une manière pratique d'exporter vos données Anki pour une analyse ultérieure ou un partage.
+Extract to TXT est une extension pour le logiciel Anki qui vous permet d'extraire vos notes et leur contenu dans un fichier texte brut. Cela vous offre une manière pratique d'exporter vos données Anki pour une analyse ultérieure ou un partage.
 
 **Veuillez noter que cette extension prend en charge uniquement la langue anglaise.**
 
