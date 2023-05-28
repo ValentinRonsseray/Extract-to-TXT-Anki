@@ -16,11 +16,13 @@ Extract to TXT is an addon for the Anki flashcard software that allows you to ex
 ## Usage
 
 1. Install the addon in Anki.
-2. Open Anki and go to the Browse section.
-3. Select the notes you want to extract.
-4. Right-click on the selected notes and choose "Extract to TXT File" from the context menu.
-5. Choose the desired output file path and click Save.
-6. The selected notes will be extracted and saved in the specified text file.
+2. Open Anki and go to the Tools menu.
+3. Select "Add-ons", then "Extract to TXT" and "Configuration" to set the output file path.
+4. In the configuration dialog, specify the desired output file path in the `01_output_path` key and click Save. There are several path examples to help you choose the correct file path, and the operation is intuitive. The default path leads the file to the "user" folder.
+5. Open Anki's Browse section.
+6. Select the notes you want to extract.
+7. Right-click on the selected notes in the note section and choose "Extract to TXT File" from the context menu.
+8. The selected notes will be extracted and saved in the specified text file.
 
 ## Important Information
 
