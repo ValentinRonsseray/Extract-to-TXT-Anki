@@ -1,9 +1,9 @@
-# Anki Extract to TXT
+# Extract to TXT
 
 ![Version](https://img.shields.io/badge/version-b1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
 
-Anki Extract to TXT is an addon for the Anki flashcard software that allows you to extract your notes and their content into a plain text file. It provides a convenient way to export your Anki data for further analysis or sharing.
+Extract to TXT is an addon for the Anki flashcard software that allows you to extract your notes and their content into a plain text file. It provides a convenient way to export your Anki data for further analysis or sharing.
 
 **Please note that this addon currently supports the English language only.**
 
