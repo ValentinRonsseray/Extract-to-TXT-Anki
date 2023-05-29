@@ -7,6 +7,10 @@ Extract to TXT est une extension pour le logiciel de cartes mémoire Anki qui vo
 
 **Veuillez noter que cette extension prend en charge uniquement la langue anglaise.**
 
+## Lien
+
+Vous pouvez accéder à l'add-on via ce lien [Extract to TXT Add-on](https://ankiweb.net/shared/info/1758053224)
+
 ## Fonctionnalités
 
 - Extrait les notes et leur contenu d'Anki vers un fichier texte brut.
