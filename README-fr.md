@@ -28,10 +28,6 @@ Vous pouvez accéder à l'add-on via ce lien [Extract to TXT Add-on](https://ank
 7. Cliquez avec le bouton droit sur les notes sélectionnées dans la section des notes et choisissez "Extraire vers un fichier TXT" dans le menu contextuel.
 8. Les notes sélectionnées seront extraites et enregistrées dans le fichier texte spécifié.
 
-## Informations importantes
-
-Les informations collectées et exportées par cette extension peuvent être utiles pour générer automatiquement des cartes mémoire à l'aide de modèles d'IA textuels tels que ChatGPT.
-
 ## Commentaires et support
 
 Cette extension est actuellement en version bêta, et vos commentaires sont grandement appréciés. Si vous rencontrez des problèmes ou avez des suggestions d'amélioration, veuillez créer une nouvelle demande (issue) sur le dépôt GitHub.
