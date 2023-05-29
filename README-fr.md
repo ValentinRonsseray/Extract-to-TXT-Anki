@@ -5,6 +5,8 @@
 
 Extract to TXT est une extension pour le logiciel de cartes mémoire Anki qui vous permet d'extraire vos notes et leur contenu dans un fichier texte brut. Cela vous offre un moyen pratique d'exporter vos données Anki pour une analyse ultérieure ou un partage (par exemple, soumettre vos cartes à ChatGPT pour automatiser la production de nouvelles cartes...).
 
+$$F(x) = \int_{a}^{b} f(x) \, dx$$
+
 **Veuillez noter que cette extension prend en charge uniquement la langue anglaise.**
 
 ## Lien
