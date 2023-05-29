@@ -28,10 +28,6 @@ You can access the add-on by clicking this [Extract to TXT Add-on](https://ankiw
 7. Right-click on the selected notes in the note section and choose "Extract to TXT File" from the context menu.
 8. The selected notes will be extracted and saved in the specified text file.
 
-## Important Information
-
-The information collected and exported by this addon may be useful for generating flashcards automatically using text-based AI models such as ChatGPT.
-
 ## Feedback and Support
 
 This addon is currently in beta, and your feedback is greatly appreciated. If you encounter any issues or have suggestions for improvement, please create a new issue on the GitHub repository.
