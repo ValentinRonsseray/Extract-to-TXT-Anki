@@ -9,7 +9,7 @@ Extract to TXT is an addon for the Anki flashcard software that allows you to ex
 
 ## Link
 
-You can access the add-on by clicking this [Extract to TXT Add-on](https://ankiweb.net/shared/info/1758053224)
+You can access the add-on by clicking this link : [Extract to TXT Add-on](https://ankiweb.net/shared/info/1758053224)
 
 ## Features
 
