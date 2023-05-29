@@ -7,6 +7,10 @@ Extract to TXT is an addon for the Anki flashcard software that allows you to ex
 
 **Please note that this addon currently supports the English language only.**
 
+## Link
+
+You can access the add-on by clicking this [Extract to TXT Add-on](https://ankiweb.net/shared/info/1758053224)
+
 ## Features
 
 - Extracts notes and their content from Anki to a plain text file.
